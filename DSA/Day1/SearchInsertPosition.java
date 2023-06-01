@@ -1,4 +1,4 @@
-package DSA;
+package DSA.Day1;
 
 public class SearchInsertPosition {
 
